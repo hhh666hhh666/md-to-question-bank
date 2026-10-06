@@ -1,6 +1,9 @@
 # 中间产物（可随时删了重跑）
 .qbgen/
 
+# 宿主工作数据（记忆 / 会话日志，不发布）
+.workbuddy/
+
 # Python
 __pycache__/
 *.py[cod]
