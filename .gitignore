@@ -1,0 +1,14 @@
+# 中间产物（可随时删了重跑）
+.qbgen/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
